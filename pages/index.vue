@@ -137,7 +137,7 @@
     <!-- Hero Section -->
     <section
   id="home"
-  class="text-white pb-16 md:pb-24 min-h-[85vh] md:min-h-[120vh] flex items-center pt-10 md:pt-0"
+  class="text-white pt-8 sm:pt-8 pb-16 md:pb-24 min-h-[85vh] md:min-h-[120vh] flex items-center pt-10 md:pt-0"
   style="background: linear-gradient(180deg, #42389E 0%, #0F1026 100%); clip-path: polygon(0 0, 100% 0, 100% 60%, 0 100%);"
 >
       <div class="max-w-3xl mx-auto px-4 md:py-4 w-full text-center">
