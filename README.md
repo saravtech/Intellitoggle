@@ -74,5 +74,5 @@ Used **Pixelay** overlay testing to verify:
 
 ## 👨‍💻 Author  
 **Saravanarajan Ravichandran**  
-- 🌍 [LinkedIn](https://www.linkedin.com/in/saravanarajan-ravichandran-340599a3/)  
+- 🌍 [LinkedIn](https://www.linkedin.com/in/saravanarajan-r/)  
 - 📧 rsaravanarajan23@gmail.com  
