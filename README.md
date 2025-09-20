@@ -25,6 +25,18 @@ Built with **Nuxt 3**, **Vue 3**, and **TailwindCSS**.
 
 ---
 
+## Caveats
+- **Typography & Spacing:** Minor mismatches in font sizes, line heights, and section spacing.  
+- **Mobile Responsiveness:** Video section and hero title margins need finer tuning for smaller screens.  
+- **Backgrounds & Shadows:** Subtle differences in overlay opacity, background scaling, and card shadows.  
+- **Pixel Matching:** Layout is close but not exact to the Figma mockup in every detail.
+
+## Pending Improvements
+- Fine-tune breakpoints for mobile and tablet devices.  
+- Adjust typography to exactly match the design tokens.  
+- Improve background patterns and shadow consistency.  
+- Use automated tools like Pixelay to verify pixel-perfect accuracy.
+
 ## 🛠 Tech Stack  
 - **Nuxt 3** – Framework  
 - **Vue 3 + Composition API** – UI Logic  
