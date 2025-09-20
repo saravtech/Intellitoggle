@@ -1,7 +1,7 @@
 # 🚀 Frontend Assignment – IntelliToggle Landing Page  
 
-This project is built as part of the **Frontend Assignment**.  
-It replicates the given Figma design with pixel-perfect attention to detail, responsive layouts, and best coding practices.  
+A responsive, modern landing page implementation based on the given Figma design.  
+Built with **Nuxt 3**, **Vue 3**, and **TailwindCSS**.
 
 ---
 
@@ -10,14 +10,18 @@ It replicates the given Figma design with pixel-perfect attention to detail, res
 
 ---
 
-## ✨ Features  
-- 🎨 **Pixel-perfect UI** based on Figma design  
-- 📱 **Fully responsive** (mobile, tablet, desktop)  
-- 🌗 **Gradient backgrounds & overlays** with `clip-path`  
-- ▶️ **Embedded video section** with custom play button  
-- 🏷 **Reusable UI components** (Buttons, Cards, Pricing, Newsletter)  
-- 📏 **Typography & spacing matched** to Figma  
-- 🧩 **Clean TailwindCSS setup**  
+## ✨ Features Implemented
+- High-fidelity layout based on the provided Figma design
+- Responsive across desktop, tablet, and mobile
+- Gradient overlays, subtle shadows, and background patterns
+- Interactive navigation (desktop + mobile hamburger menu)
+- Hero section with styled headings and CTA buttons
+- Video placeholder section with play button
+- Feature highlight cards with gradient backgrounds
+- Pricing section with subscription plan cards
+- “Coming Soon” AI Features section with email capture
+- Footer with links and newsletter subscription form
+- Deployed on **Vercel** with auto CI/CD from GitHub
 
 ---
 
@@ -61,14 +65,6 @@ npm run preview
 ## 🌍 Deployment  
 This project is deployed with **Vercel**.  
 Every push to `main` branch triggers an **auto-deploy**.  
-
----
-
-## 📐 Pixel-Perfect Verification  
-Used **Pixelay** overlay testing to verify:  
-- Fonts, colors, and spacing  
-- Mobile breakpoints  
-- Section alignments  
 
 ---
 
